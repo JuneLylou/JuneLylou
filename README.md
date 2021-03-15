@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JuneLylou
+- 👀 I’m interested in 3D CGI
+- 🌱 I’m currently learning Blender
